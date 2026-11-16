@@ -1,0 +1,10 @@
+build*/
+build-*/
+data/*
+!data/tiny_fixture*
+*.o
+*.out
+*.sif
+perf.data*
+*.png
+!docs/*.png
